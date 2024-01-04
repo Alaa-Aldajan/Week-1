@@ -1,1 +1,1 @@
-# Week-1
+# Coursera-Single-Page-Web-Applications-with-AngularJS
